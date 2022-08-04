@@ -2,4 +2,4 @@
 
 
 
-train agent(drone)  with reinforcement learning
+train agent( Quadcopter)  with reinforcement learning
